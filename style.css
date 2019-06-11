@@ -1,0 +1,34 @@
+
+
+.responsive {
+  max-width: 100%;
+  height:auto;
+}
+
+
+
+
+
+.material-icons.md-18 { font-size: 18px; }
+.material-icons.md-24 { font-size: 24px; }
+.material-icons.md-36 { font-size: 36px; }
+.material-icons.md-48 { font-size: 48px; }
+
+.material-icons.deeppink {
+   color: #FF1493
+;
+ }
+
+ .background.mediumvioletred {background-color:#C71585 }
+ .background.darkgray {background-color:#A9A9A9 }
+ .background.gray {background-color:#808080 }
+ .background.dimgray {background-color:#696969 }
+ .background.black {background-color:#000 }
+ .blend{mix-blend-mode: color-burn;
+         opacity: .9;}
+.invert{ mix-blend-mode: difference;}
+.white{color: white;}
+.red{color:red;}
+.orange{color:orange;}
+.opacity{opacity:.8;
+            mix-blend-mode: difference;}
